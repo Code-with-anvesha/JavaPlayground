@@ -10,7 +10,7 @@ class Sum
            System.out.print("Enter two numbers: ");
 
            int num1,num2,x;
-              Scanner obj=new Scanner (System.in);
+              Scanner obj = new Scanner (System.in);
               num1=obj.nextInt();
               num2=obj.nextInt();
             x=  sum(num1,num2);
