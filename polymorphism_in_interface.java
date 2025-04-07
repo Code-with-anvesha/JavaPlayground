@@ -63,6 +63,6 @@ public class polymorphism_in_interface
     public static void main(String args[])  
     {  
         OldNokia phone = new MySmartPhone();  
-        phone.dialNumber( 894800000);  
+        phone.dialNumber( 000000000);  
     }  
 }
