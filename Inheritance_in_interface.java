@@ -12,7 +12,7 @@ class Doge extends Meme {
 
 class Catto extends Meme {
     void angryMeow() {
-        System.out.println("Meow! Who touched my food?! ");
+        System.out.println("Meow😼! Who touched my food?! ");
     }
 }
 
