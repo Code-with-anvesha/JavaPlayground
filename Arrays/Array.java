@@ -1,6 +1,6 @@
  /*  
  *  Arrays
- *  -> Array is a linear collection of similler elements.
+ *  -> Array is a linear collection of similler elements .
  *
  */
 
