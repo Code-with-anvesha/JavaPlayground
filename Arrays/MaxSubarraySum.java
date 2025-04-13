@@ -11,19 +11,18 @@ public class MaxSubarraySum {
         }
 
         // calculate Max Subarray Sum
-<<<<<<< HEAD
+
         for(int i = 0; i < array.length; i++){
             for(int j = i; j < array.length; j++){
                 int  curSum = i == 0  ? prefix[j] : prefix[j]-prefix[i-1];
-                if (max < currSum) {
-                    max = currSum;
-=======
+                if (max < Sum) {
+                    max = Sum;
+
         for(int i=0; i<array.length; i++){
             for(int j=i; j<array.length; j++){
                 int  Sum= i==0? prefix[j] : prefix[j]-prefix[i-1];
                 if (max<Sum) {
                     max=Sum;
->>>>>>> e3a07e5 ( Modified MaxSubarraySum.java file)
                 }
             }
         }
