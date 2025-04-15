@@ -16,7 +16,7 @@ public class ReverseArray {
 
     public static void main(String[] args) {
         
-        String name = "Anvesha Sharma";
+        String name = "Anvesha Sharma🤝";
         String reversedName = reverse(name);
         System.out.println("Reversed:" + reversedName);
     }
