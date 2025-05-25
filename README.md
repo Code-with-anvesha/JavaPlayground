@@ -1,5 +1,5 @@
- Java Projects and Programs☕
-
+ ### Java Projects and Programs☕
+___
 Welcome to my Java repository! This collection includes a wide range of Java programs created for learning and practicing core programming concepts. Whether you're a beginner or brushing up on your Java skills, you'll find useful examples here.
 
 ➡️ Features
